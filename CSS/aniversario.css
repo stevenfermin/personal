@@ -15,22 +15,39 @@ nav {
 }
 
 main {
-    width: 800px;
-    height: 0 auto;
-    margin: 0;
-    background-color: #000;
+    margin: 0 auto;
 }
 
+p {
+    color: aliceblue;
+}
+
+
 section {
-    background-color: lightgray;
-    font-size: smaller;
+    text-align: right;
     margin: 10px 50px;
     padding: 50px;
-    display: inline-block;
+    display: block;
 }
 
 footer {
     margin-top: 15px;
     border: 1px solid #000;
     text-align: center;
+}
+
+/* creating classes*/
+
+.box {
+    width: 400px;
+    background-color: aqua;
+}
+
+.box2 {
+    width: 400px;
+    background-color: #000;
+}
+
+.img-behavior1 {
+    float: left;
 }
