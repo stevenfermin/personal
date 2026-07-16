@@ -1,0 +1,36 @@
+:root {
+    --bgcolor: red;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav {
+    background-color: var(--bgcolor);
+    padding: 5px;
+    text-align: center;
+}
+
+main {
+    width: 800px;
+    height: 0 auto;
+    margin: 0;
+    background-color: #000;
+}
+
+section {
+    background-color: lightgray;
+    font-size: smaller;
+    margin: 10px 50px;
+    padding: 50px;
+    display: inline-block;
+}
+
+footer {
+    margin-top: 15px;
+    border: 1px solid #000;
+    text-align: center;
+}
