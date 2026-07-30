@@ -4,6 +4,13 @@
     
 }
 
+video {
+  -webkit-user-select: none; /* Prevents selection/freezing */
+  user-select: none;
+  -webkit-tap-highlight-color: transparent; /* Removes flashing highlight on tap */
+}
+
+
 * {
     margin: 0;
     padding: 0;
