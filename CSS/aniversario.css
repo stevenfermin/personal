@@ -33,7 +33,7 @@ a {
 }
 
 p {
-    color: aliceblue;
+    color: rgb(1, 1, 1);
 }
 
 
@@ -300,7 +300,7 @@ footer {
 
 .box8 p {
     font-size: 1.2vw;
-    color: blue;
+    color: rgb(2, 2, 2);
     grid-column: 3/5;
     grid-row: 3/6;
     text-align: justify;
