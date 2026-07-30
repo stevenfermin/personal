@@ -300,6 +300,7 @@ footer {
 
 .box8 p {
     font-size: 1.2vw;
+    color: blue;
     grid-column: 3/5;
     grid-row: 3/6;
     text-align: justify;
