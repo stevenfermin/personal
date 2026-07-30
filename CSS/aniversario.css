@@ -33,13 +33,13 @@ a {
 }
 
 p {
-    color: rgb(1, 1, 1);
+    color: aliceblue;
 }
 
 
 section {
     display: grid;
-    max-width: 100%;
+    max-width: 120vw;
     height: 20vw;
     margin: 2vw 1.5vw;
     padding: 1.5vw 2.5vw;
@@ -120,7 +120,7 @@ footer {
 }
 
 .box3 p {
-    font-size: 1.5vw;
+    font-size: 1.6vw;
     font-style: italic;
     text-align: justify;
 }
