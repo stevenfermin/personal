@@ -54,13 +54,6 @@ section h1 {
 
 
 
-footer {
-    border-top: 0.1vw solid #000;
-    text-align: center;
-}
-
-
-
 /* creating classes*/
 
 .box {
@@ -496,7 +489,3 @@ footer {
     float: left;
 }
 
-footer {
-    width: 100vw;
-    height: 0 auto;
-}
