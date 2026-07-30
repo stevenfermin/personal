@@ -99,7 +99,7 @@ footer {
 .box3 {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    height: 30vw;
+    height: 40vw;
     align-items: center;
     align-content: space-around;
     background-color: rgba(250, 2, 2, 0.63);
@@ -114,13 +114,13 @@ footer {
 
 .box3 img {
     position: relative;
-    left: 8vw;
-    width: 15vw;
+    left: 5vw;
+    width: 20vw;
     height: 0 auto;
 }
 
 .box3 p {
-    font-size: 1.4vw;
+    font-size: 1.5vw;
     font-style: italic;
     text-align: justify;
 }
