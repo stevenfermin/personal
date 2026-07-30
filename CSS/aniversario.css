@@ -57,6 +57,7 @@ section h1 {
 /* creating classes*/
 
 .box {
+    height: 30vw;
     text-align: right;
     font-size: 1.7vw;
     text-align: justify;
