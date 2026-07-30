@@ -418,6 +418,7 @@ footer {
 .box10 p{
     font-size: 1.5vw;
     grid-column: 3/4;
+    color: #000;
     grid-row: 6/8;
     text-align: justify;
 }
@@ -493,4 +494,9 @@ footer {
 
 .img-behavior1 {
     float: left;
+}
+
+footer {
+    width: 120vw;
+    height: 20px;
 }
