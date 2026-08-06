@@ -489,11 +489,23 @@ section h1 {
 }
 
 .box12 {
+    background-color: #c9c9c9;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    height: 50vw;
     align-items: center;
+    align-content: space-around;
     background-color: #c9c9c9;
 }
 
-.img-behavior1 {
-    float: left;
+.box12 h1 {
+    height: 2.5vw;
+    grid-column: 1/4;
+}
+
+.box12 video {
+    grid-column: 2/3;
+    width: 30vw;
+    height: 40vw;
 }
 
