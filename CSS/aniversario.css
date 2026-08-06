@@ -333,7 +333,7 @@ section h1 {
 .box8 {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    grid-template-rows: repeat(5, 1fr);
+    grid-template-rows: repeat(4, 1fr);
     align-items: center;
     background-color: #c9c9c9;
     height: 80vw;
@@ -354,9 +354,7 @@ section h1 {
     width: 10vw;
     left: 15vw;
     position: relative;
-    grid-column: 1/2;
     text-align: center;
-    grid-row: 5/6;
     font-size: 1.5vw;
     background-color: var(--secondarybgcolor);
     color: var(--bgcolor);
