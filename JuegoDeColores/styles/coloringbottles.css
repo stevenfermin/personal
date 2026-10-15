@@ -1,0 +1,21 @@
+* {
+    margin: 0 auto;
+    padding: 0 auto;
+    box-sizing: border-box;
+}
+
+header, main, footer{
+    width: 1000px;
+    margin: 0 auto;
+    padding: 50px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 4rem;
+    margin-bottom: 4rem;
+}
+
+h2 {
+    font-size: 2rem;
+}
